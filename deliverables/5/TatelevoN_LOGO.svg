@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="TatelevoN_LOGO_inskape_singlelayer_grouping_outline_512_2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="228.20817"
+     inkscape:cy="294.42537"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ｎ "
+     style="display:inline"
+     transform="translate(0,-76.2)">
+    <g
+       id="g4100">
+      <g
+         transform="matrix(0.64067279,0,0,0.64067279,3.8578307,76.336338)"
+         id="g4016">
+        <g
+           id="flowRoot3938"
+           style="font-style:normal;font-weight:normal;font-size:666.66668701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.36842322,0,0,0.36842322,119.45937,-106.09592)"
+           aria-label="Ｎ">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4018"
+             style="font-size:666.66668701px"
+             d="M -243.33333,779.66669 V 293 h 64.66667 l 282.66667,400.66668 h 0.66667 V 293 h 57.33334 V 779.66669 H 97.333348 L -184.66666,379.00001 h -1.33333 v 400.66668 z" />
+        </g>
+        <g
+           id="flowRoot3952"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(1.6847964,0,0,0.97299449,433.16541,-318.64432)"
+           aria-label="▼">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4021"
+             d="m -248.96,510.68 h 31.8 q 1.28,0 0.96,1.12 l -16.2,30.44 q -0.6,1.12 -1.16,0 l -16.24,-30.52 q -0.28,-1.04 0.84,-1.04 z" />
+        </g>
+      </g>
+      <path
+         style="stroke-width:0.25959074"
+         d="M 98.160416,77.522919 H 125.4125 v 11.1125 H 98.160416 Z"
+         id="rect4064"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
